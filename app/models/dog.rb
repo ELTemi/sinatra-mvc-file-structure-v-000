@@ -15,5 +15,5 @@ class Model::Dog
   def self.all
     @@dogs
   end
-  
+
 end
